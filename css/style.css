@@ -1,12 +1,9 @@
 *{
   margin:  0;
+  font-weight: 400;
+  font-family: 'Times New Roman', Times, serif;
 }
 
-body{
-  font-weight: 600; 
-}
-
-/* add pattern */
 
 header div{
   background-color: #4ea0ff;
@@ -61,6 +58,7 @@ ul{
 
 /* end section list */
 
+/* table */
 
 
 #logo{
