@@ -94,6 +94,11 @@ ul{
 
 /* foot */
 
+h3{
+  color: gray;
+  margin-bottom: 5px;
+}
+
 #monitor{
   background-image: url(../img/monitor.jpg);
   width: 300px;
@@ -110,7 +115,3 @@ ul{
   padding: 20px;
 }
 
-h3{
-  color: gray;
-  margin-bottom: 5px;
-}
