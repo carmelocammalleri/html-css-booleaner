@@ -60,6 +60,19 @@ ul{
 
 /* table */
 
+.table{
+  width: 100%;
+  background-color:#23A9E5 ;
+}
+
+.hei{
+  display: inline-block;
+  width: 33%;
+
+}
+
+
+
 
 #logo{
   width: 200px;
