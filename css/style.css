@@ -16,10 +16,16 @@ header div{
   background-position: top;
 }
 
+/* end add pattern */
+
+
 main{
   margin-top: 20px;
   margin-left: 25px;
 }
+
+/* article */
+
 .color{
   color: gray;
   margin-bottom: 10px;
@@ -43,11 +49,17 @@ p{
   background-color: #EEEE6B;
 }
 
+/* end article */
 
+/* section list */
 
+ul{
+  margin-left: -25px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
 
-
-
+/* end section list */
 
 
 
