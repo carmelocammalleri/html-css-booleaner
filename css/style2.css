@@ -1,0 +1,131 @@
+*{
+  margin:  0;
+  font-weight: 400;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+/* logo and pattern */
+
+header div{
+  background-color: #4ea0ff;
+  width: auto;
+  background-image: url(../img/pattern.png);
+  background-size: 450px;
+  background-position: top;
+}
+
+#logo{
+  width: 200px;
+  margin-top: 50px;
+  margin-left: 80px;
+}
+
+/* end logo and pattern */
+
+
+main, footer{
+  margin-top: 20px;
+  margin-left: 80px;
+  margin-right: 80px;
+}
+
+/* article */
+
+.box{
+  display: inline-block;
+  width: 40%;
+  margin-right: 10px;
+}
+
+.color{
+  color: gray;
+  margin-bottom: 10px;
+  padding: 0.2rem;
+  font-size: 13px;
+}
+
+#text-color{
+  color: #4ea0ff;
+}
+
+.size{
+  font-size: 12px;
+}
+
+p{
+  margin-top: 25px;
+}
+
+.underline{
+  background-color: #EEEE6B;
+}
+
+/* end article */
+
+/* section list */
+
+ul{
+  margin-left: -25px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+/* end section list */
+
+/* table */
+
+.table-header{
+  background-color:#23A9E5 ;
+  color: white;
+}
+
+.row{
+  display: inline-block;
+  width: 20%;
+}
+
+.element{
+  display: inline-block;
+  position: relative;
+  transform: translate(0,-90%);
+  width: 20%;
+}
+
+.third-element{
+  display: inline-block;
+  width: 58%;
+}
+
+.table-color-white{
+  height: 60px;
+}
+
+.table-color-light{
+  background-color:#B1E5F2;
+  height: 60px;
+}
+
+/* end table */
+
+/* foot */
+
+h3{
+  color: gray;
+  margin-bottom: 5px;
+}
+
+#monitor{
+  background-image: url(../img/monitor.jpg);
+  width: 250px;
+  height: 150px;
+  color: white;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+#graph{
+  background-image: url(../img/graph.jpg);
+  width: 250px;
+  height: 150px;
+  color: white;
+  padding: 20px;
+}
